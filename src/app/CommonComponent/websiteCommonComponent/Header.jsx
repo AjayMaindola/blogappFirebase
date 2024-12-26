@@ -56,9 +56,9 @@ export default function Header() {
               </li>
             )}
           </Navbar.Collapse>
-          <div className="md:hidden ">
+          <div className="md:hidden  ">
             <Dropdown
-              className=" w-[100%] mt-[1px] h-[100vh] p-0  "
+              className=" w-[100%] mt-[1px] h-[100vh]    "
               arrowIcon={false}
               inline
               label={
